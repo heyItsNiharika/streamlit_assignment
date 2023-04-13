@@ -4,11 +4,9 @@
 import streamlit as st 
 import pandas as pd
 
-st.header()
+st.header("Find Largest Number")
 
-st.write("""
-
-# Find Largest Number 
+st.write(""" 
 
 Given three numbers, this app finds the largest number among those three
 
